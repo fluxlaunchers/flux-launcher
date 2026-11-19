@@ -1,0 +1,18 @@
+{
+  "name": "flux-launcher",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Flux Team",
+  "description": "Flux Launcher - персональний ігровий лаунчер",
+  "build": {
+    "appId": "com.fluxlauncher.app",
+    "productName": "Flux Launcher",
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "fluxlaunchers",
+        "repo": "flux-launcher"
+      }
+    ]
+  }
+}
